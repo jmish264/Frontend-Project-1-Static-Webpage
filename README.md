@@ -19,6 +19,9 @@ Spice Garden is a static restaurant website developed using HTML and CSS.
 ## Project Type
 Static Webpage Design
 
+## Live Demo
+https://jmish264.github.io/Frontend-Project-1-Static-Webpage/
+
 ## Author
 Jatin Mishra
 
